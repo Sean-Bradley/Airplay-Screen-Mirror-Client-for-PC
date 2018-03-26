@@ -50,6 +50,9 @@
 ## Feature
 * Airplay Mirror Receiver
 * Record Mirror Streamer to .H264 file
+## install
+please install BonjourPSSetup.exe first , then it would auto start 'Bonjour Service'
+run easyAirplay.exe to enjoy the airplay
 # 
 # License
 * Free but has some limits
