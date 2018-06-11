@@ -10,6 +10,18 @@
 * Support two screen while the pc has two display devices
 * Support BJCast
 * Support Hardware Encoder
+
+
+# bjcast_receiver_demo_windows.rar
+## Support System
+* Windows XP
+* Windows 7
+* Windows 8
+* Windows 10
+## Feature
+* bjcast receiver
+* just support video in this demo (cursor and audio display support in sdk)
+
 # 
 # ScreenShare.apk
 ## Support System
@@ -40,6 +52,7 @@
   ffplay -f s16le  -channel_layout 3 -channels 2  -ar 44100 audio_44100_2_s16.pcm
 ## Note:
 * we use mdns lib to suppot zeroconf in this demo.so you must stop avahi-daemon first.
+
 # 
 # easyAirplay_windows.zip
 ## Support System
