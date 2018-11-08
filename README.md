@@ -74,3 +74,6 @@ run run.bat to enjoy the airplay
 * maybe disconnect after mirroring 5-10min
 * 1/3 probability maybe coredump while start airplay mirror
 * Time intervals between multiple screens/mirrors are required
+
+# QQ群技术交流
+* 582349005
