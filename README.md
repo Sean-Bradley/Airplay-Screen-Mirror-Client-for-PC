@@ -54,7 +54,7 @@
 * we use mdns lib to suppot zeroconf in this demo.so you must stop avahi-daemon first.
 
 # 
-# easyAirplay_windows.zip
+# airplay_mirror_receiver_demo_windows.rar
 ## Support System
 * Windows XP
 * Windows 7
