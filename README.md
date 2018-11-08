@@ -1,4 +1,4 @@
-# BoxClient_Demo.exe
+# CBoxClient_Demo.exe
 ## Support System
 * Windows XP
 * Windows 7
@@ -10,6 +10,7 @@
 * Support two screen while the pc has two display devices
 * Support BJCast
 * Support Hardware Encoder
+* Support pin
 
 
 # bjcast_receiver_demo_windows.rar
@@ -23,15 +24,16 @@
 * just support video in this demo (cursor and audio display support in sdk)
 
 # 
-# ScreenShare.apk
+# ScreenShare_pin.apk
 ## Support System
 * Android 5.0+
 ## Feature
 * Send Android Screen(Mirror) to receiver--"ScreenRenderDemo.apk"
 * Auto Find receiver
 * Support BJCast
+* Support pin
 # 
-# ScreenRenderDemo.apk
+# ScreenRenderDemo_pin.apk
 ## Support System
 * Android 4.0+
 * PAD/phone/TV Box
@@ -40,8 +42,9 @@
 * Play airplay mirror from iphone/ipad/mac
 * Support BJCast
 * Support Airplay
+* Support Pin
 # 
-# easyAirplay_linux.zip
+# airplay_demo_linux.zip
 ## Support System
 * x86_64 linux(test in centos 7.1)
 ## Feature
