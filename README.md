@@ -1,4 +1,4 @@
-# BoxClient.exe
+# BiJieClient.exe
 ## Support System
 * Windows XP
 * Windows 7
@@ -24,7 +24,7 @@
 * just support video in this demo (cursor and audio display support in sdk)
 
 # 
-# BiJieSender.apk
+# BiJieClient.apk
 ## Support System
 * Android 5.0+
 ## Feature
