@@ -5,7 +5,7 @@
 * Windows 8
 * Windows 10
 ## Feature
-* Send PC Screen to receiver--"ScreenRenderDemo.apk"
+* Send PC Screen to receiver--"AndroidReceiver_Demo.apk"
 * Auto Find receiver
 * Support two screen while the pc has two display devices
 * Support BJCast
@@ -24,25 +24,27 @@
 * just support video in this demo (cursor and audio display support in sdk)
 
 # 
-# ScreenShare_pin.apk
+# BiJieSender.apk
 ## Support System
 * Android 5.0+
 ## Feature
-* Send Android Screen(Mirror) to receiver--"ScreenRenderDemo.apk"
+* Send Android Screen(Mirror) to receiver--"AndroidReceiver_Demo.apk"
 * Auto Find receiver
 * Support BJCast
 * Support pin
 # 
-# ScreenRenderDemo_pin.apk
+# AndroidReceiver_Demo.apk
 ## Support System
 * Android 4.0+
 * PAD/phone/TV Box
 ## Feature
-* Play Screen(Mirror) from sender--"BoxClient_Demo.exe/ScreenShare.apk"
-* Play airplay mirror from iphone/ipad/mac
+* Play Screen(Mirror) from sender--"BoxClient.exe/BiJieSender.apk"
+* Play airplay mirror/url/pic from iphone/ipad/mac
+* Limit 10min for DMEO
 * Support BJCast
 * Support Airplay
 * Support Pin
+
 # 
 # airplay_demo_linux.zip
 ## Support System
