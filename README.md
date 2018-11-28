@@ -1,4 +1,4 @@
-# CBoxClient_Demo.exe
+# BoxClient.exe
 ## Support System
 * Windows XP
 * Windows 7
