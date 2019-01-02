@@ -1,0 +1,1 @@
+easyAirplay.exe default a > test.log
